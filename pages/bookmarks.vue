@@ -1,0 +1,1 @@
+<template>bookmarks page</template>

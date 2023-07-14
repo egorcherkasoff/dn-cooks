@@ -5,14 +5,14 @@
             <ul class="flex text-lg font-semibold">
                 <li>
                     <NuxtLink
-                        to="/"
+                        to="recipes"
                         class="border-b-2 border-red-400 transition-all ease-out hover:border-white"
                         >Recipes</NuxtLink
                     >
                 </li>
                 <li>
                     <NuxtLink
-                        to="/"
+                        to="auth"
                         class="ms-10 border-b-2 border-red-400 transition-all ease-out hover:border-white"
                         >Login</NuxtLink
                     >
@@ -38,14 +38,14 @@
             <ul class="flex text-lg font-semibold">
                 <li>
                     <NuxtLink
-                        to="/"
+                        to="recipes"
                         class="border-b-2 border-red-700 transition-all ease-out hover:border-white"
                         >Recipes</NuxtLink
                     >
                 </li>
                 <li>
                     <NuxtLink
-                        to="/"
+                        to="auth"
                         class="ms-10 border-b-2 border-red-700 transition-all ease-out hover:border-white"
                         >Login</NuxtLink
                     >

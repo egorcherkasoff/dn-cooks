@@ -74,10 +74,6 @@
                 <SwiperSlide><CategoryCard></CategoryCard></SwiperSlide>
                 <SwiperSlide><CategoryCard></CategoryCard></SwiperSlide>
             </Swiper>
-            <!-- 
-            <div class="grid gap-5 grid-cols-2 grid-rows-2">
-                <CategoryCard></CategoryCard>
-            </div> -->
         </section>
     </div>
 </template>
